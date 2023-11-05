@@ -4,9 +4,6 @@ A simple console program to manage student's official data.
 
 Store records like student_id, name, course, department, phone no., etc. It writes records into a .csv file that can be opened with any spreadsheet software like Google Sheets, Microsoft Excel, LibreOffice Calc.
 
-> **Note**: 
-> This program uses the Linux/Unix-specific library `unistd.h` for functions like `sleep()` and `system("clear")`. Compilation on other operating systems like Windows may require some changes, which will be added in the future.
-
 ## Introduction
 
 StudentTracker is a user-friendly console program designed to help you efficiently manage and organize student data. It allows you to store, view, update, and delete student records with ease. The program exports records to a CSV file, making it compatible with popular spreadsheet software.
