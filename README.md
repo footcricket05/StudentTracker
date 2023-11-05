@@ -51,9 +51,16 @@ To get and run this program, follow these commands in your terminal:
 
 ## Screenshots 📸
 
-![admin_menu](https://github.com/footcricket05/StudentTracker/assets/93007427/aa0dcd8a-806c-4dfd-a93c-4aacabf8aa96)
+1. Admin Menu:
+![Admin Menu](https://github.com/footcricket05/StudentTracker/assets/93007427/aa0dcd8a-806c-4dfd-a93c-4aacabf8aa96)
+
+2. Add Record:
 ![Add Record](https://github.com/footcricket05/StudentTracker/assets/93007427/2c126ca8-c9d6-4009-a4e7-1c5e9203b1d2)
+
+3. View Record:
 ![View Record](https://github.com/footcricket05/StudentTracker/assets/93007427/c152b51d-c280-48a4-b774-43ea6d7ccf85)
+
+4. Delete Record:
 ![Delete record](https://github.com/footcricket05/StudentTracker/assets/93007427/2d02e6a3-e7ea-4b6e-96fb-a5569954f247)
 
 ## Contributing 🤝
